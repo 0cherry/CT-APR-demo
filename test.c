@@ -3,7 +3,7 @@ void testme(int a, int b) {
     if (b == 7)
 	  return;
     else
-	  abort();
+	  ;//abort();
   } else {
 	  return;
   }
