@@ -4,7 +4,8 @@ void testme(int a, int b) {
 	  return;
     }
     else {
-	  abort();
+	  return;
+	  //abort();
     }
   } else {
 	  return;
